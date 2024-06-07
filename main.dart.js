@@ -27312,7 +27312,7 @@ return A.W($async$aq5,r)},
 aq3(){var s=0,r=A.X(t.z),q,p,o
 var $async$aq3=A.Y(function(a,b){if(a===1)return A.U(b,r)
 while(true)switch(s){case 0:q=$.aPd,p=0
-case 2:if(!(p<4)){s=4
+case 2:if(!(p<2)){s=4
 break}s=5
 return A.a1(A.aq4(q[p]),$async$aq3)
 case 5:case 3:++p
@@ -94916,7 +94916,7 @@ $.au=B.aE
 $.aB6=A.B(t.N,t.xd)
 $.aBp=A.B(t.C_,t.e)
 $.awO=null
-$.aPd=A.b(["assets/comment/v1.1.1_comment.json","assets/comment/v1.0.9_comment.json","assets/comment/v1.0.7_comment.json","assets/comment/v1.0.6_comment.json"],t.s)
+$.aPd=A.b(["assets/comment/v1.0.7_comment.json","assets/comment/v1.0.6_comment.json"],t.s)
 $.atC=0
 $.aHR=A.aPc()
 $.as0=0
