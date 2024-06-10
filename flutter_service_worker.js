@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "dfd7f369fc156c166bd8097b35e91235",
+const RESOURCES = {"flutter_bootstrap.js": "24c8a564d8bdbec178c785e779b2f651",
 "version.json": "4d14cb108677e1dd697f357d11a611ab",
 "index.html": "cc3301cf37888e859bdfa9e84c17d961",
 "/": "cc3301cf37888e859bdfa9e84c17d961",
-"main.dart.js": "3755a7ca5e014cb2d9f371f2cc2c8115",
+"main.dart.js": "d3c7fd5eb9882d2c74e61d43f13d62e2",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -24,7 +24,7 @@ const RESOURCES = {"flutter_bootstrap.js": "dfd7f369fc156c166bd8097b35e91235",
 "assets/AssetManifest.bin": "3b737cc75a86dacbf42de226c0bf86f9",
 "assets/fonts/MaterialIcons-Regular.otf": "d9b89054f47852048bbbed6db21de09a",
 "assets/assets/comment/v1.0.9_comment.json": "486ff4bbbca226a6319ef7f0a1d75d1a",
-"assets/assets/comment/v1.1.1_comment.json": "7e34b8fd8d864b509227a31e268b5e90",
+"assets/assets/comment/v1.1.1_comment.json": "3ff49b58e84c87c0dd55686f4c56a9cb",
 "assets/assets/comment/v1.0.7_comment.json": "ce6d25e30c8a0f8f074775f7cc703469",
 "assets/assets/comment/v1.0.6_comment.json": "d50d8f0f20a9a87d60a878497a135f9e",
 "assets/assets/question.json": "ec462a6ee0a1884d69ad6d1eef118dc3",
