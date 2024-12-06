@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "1e57035e2c21c786f5e7f3a74b5e3166",
+const RESOURCES = {"flutter_bootstrap.js": "beeade9b1e3a64377cd83d65188d27ba",
 "version.json": "4d14cb108677e1dd697f357d11a611ab",
 "index.html": "cc3301cf37888e859bdfa9e84c17d961",
 "/": "cc3301cf37888e859bdfa9e84c17d961",
@@ -23,7 +23,7 @@ const RESOURCES = {"flutter_bootstrap.js": "1e57035e2c21c786f5e7f3a74b5e3166",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "66f2240bfbceec158e35d73b7ee541f2",
 "assets/fonts/MaterialIcons-Regular.otf": "d9b89054f47852048bbbed6db21de09a",
-"assets/assets/comment/v1.2.4_comment.json": "6955705a86e1dc6615f1957fd2671ca1",
+"assets/assets/comment/v1.2.4_comment.json": "c3f12535a94d66e87aed77a80ac4417c",
 "assets/assets/comment/v1.2.3_comment.json": "72998376359d545bc01adcee9acfe645",
 "assets/assets/comment/v1.0.9_comment.json": "486ff4bbbca226a6319ef7f0a1d75d1a",
 "assets/assets/comment/v1.1.1_comment.json": "3ff49b58e84c87c0dd55686f4c56a9cb",
