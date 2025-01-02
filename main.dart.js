@@ -27511,7 +27511,7 @@ return A.U($async$aqt,r)},
 aqr(){var s=0,r=A.V(t.z),q,p,o
 var $async$aqr=A.W(function(a,b){if(a===1)return A.S(b,r)
 while(true)switch(s){case 0:q=$.aPH,p=0
-case 2:if(!(p<6)){s=4
+case 2:if(!(p<7)){s=4
 break}s=5
 return A.a0(A.aqs(q[p]),$async$aqr)
 case 5:case 3:++p
@@ -95305,7 +95305,7 @@ $.as=B.aI
 $.aBs=A.C(t.N,t.xd)
 $.aBL=A.C(t.C_,t.e)
 $.axa=null
-$.aPH=A.b(["assets/comment/v1.2.4_comment.json","assets/comment/v1.2.3_comment.json","assets/comment/v1.1.1_comment.json","assets/comment/v1.0.9_comment.json","assets/comment/v1.0.7_comment.json","assets/comment/v1.0.6_comment.json"],t.s)
+$.aPH=A.b(["assets/comment/v1.3.0_comment.json","assets/comment/v1.2.4_comment.json","assets/comment/v1.2.3_comment.json","assets/comment/v1.1.1_comment.json","assets/comment/v1.0.9_comment.json","assets/comment/v1.0.7_comment.json","assets/comment/v1.0.6_comment.json"],t.s)
 $.atY=0
 $.aIg=A.aPG()
 $.asn=0
